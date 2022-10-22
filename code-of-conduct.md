@@ -12,7 +12,7 @@ We pledge to act and interact in ways that contribute to an open, welcoming, div
 
 ## Standards
 
-We expect community members to act in a positive, authentic, and deliberate way. Consideration and respect provides a basis for a solid community, and we request our members actions reflect these values
+We expect community members to act in a positive, authentic, and deliberate way. Consideration and respect provides a basis for a solid community, and we request our members actions reflect these values. We also expect communities to refrain from talking about, or encouraging illegal activities, including, but not limited to, piracy, substance use, and theft.
 
 Please take into account that online communities bring people together from many different cultures and backgrounds. It’s important to understand that sometimes the combination of cultural differences and online interaction can lead to misunderstandings.
 
