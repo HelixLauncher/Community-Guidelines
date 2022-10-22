@@ -58,9 +58,10 @@ We want to avoid bigotry and drama, because ultimately this is a hobby project f
 
 ### Attribution
 
-This document is a modified version of the [QuiltMC Code of Conduct](https://quiltmc.org/en/community/code-of-conduct/), itself inspired by the following:
+This document is a modified version of the [QuiltMC Code of Conduct](https://quiltmc.org/en/community/code-of-conduct/), itself inspired by:
 
 - [Contributor Covenant version 2](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html)
 - [JetBrains Open Source and Community Code of Conduct](https://confluence.jetbrains.com/display/ALL/JetBrains+Open+Source+and+Community+Code+of+Conduct)
 - [Microsoft Open Source Code of Conduct](https://microsoft.github.io/codeofconduct)
 - [Open Source Design Code of Conduct](https://opensourcedesign.net/code-of-conduct).
+
