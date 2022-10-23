@@ -64,4 +64,3 @@ This document is a modified version of the [QuiltMC Code of Conduct](https://qui
 - [JetBrains Open Source and Community Code of Conduct](https://confluence.jetbrains.com/display/ALL/JetBrains+Open+Source+and+Community+Code+of+Conduct)
 - [Microsoft Open Source Code of Conduct](https://microsoft.github.io/codeofconduct)
 - [Open Source Design Code of Conduct](https://opensourcedesign.net/code-of-conduct).
-
