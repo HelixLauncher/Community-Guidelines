@@ -18,8 +18,8 @@ Please take into account that online communities bring people together from many
 
 Examples of positive behavours include, but are not limited to
 - Demonstrating kindness and consideration towards others
-- Being respectful of differing viewpoints, experiences, and opinions
-- Respecting others' personal choices, even when they don't match your viewpoints, unless they, directly or indirectly, harm a group of people
+- Being respectful of differing viewpoints, experiences, and opinions, unless they, directly or indirectly, harm a group of people
+- Educating people about why certain actions are harmful
 - Apologizing for, accepting responsibility for, and leaning from mistakes
 - Focusing on what is best not just for us as individuals, but for the overall community
 
