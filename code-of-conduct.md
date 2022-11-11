@@ -35,13 +35,13 @@ differences and online interaction can lead to misunderstandings.
 Examples of positive behavours include, but are not limited to
 - Demonstrating kindness and consideration towards others
 - Being respectful of differing viewpoints, experiences, and
-opinions, unless they, directly or indirectly, harm a group of
-people
+  opinions, unless they, directly or indirectly, harm a group of
+  people
 - Educating people about why certain actions are harmful
 - Apologizing for, accepting responsibility for, and leaning from
-mistakes
+  mistakes
 - Focusing on what is best not just for us as individuals, but for
-the overall community
+  the overall community
 
 ## Enforcement 
 
