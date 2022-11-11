@@ -24,8 +24,7 @@ We expect community members to act in a positive, authentic, and
 deliberate way. Consideration and respect provides a basis for a
 solid community, and we request our members actions reflect these
 values. We also expect communities to refrain from talking about, or
-encouraging illegal activities, including, but not limited to,
-piracy, substance abuse, and theft.
+encouraging harmful activities, including, but not limited to, substance abuse and theft.
 
 Please take into account that online communities bring people
 together from many different cultures and backgrounds. It’s
