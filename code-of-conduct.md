@@ -1,7 +1,7 @@
 # Code of Conduct
 
 Helix Launcher bases it's policies around a Code of Conduct, it
-provides behavoural expectations for all members interacting in our
+provides behavioral expectations for all members interacting in our
 community. **Not reading the Code of Conduct is not an excuse for
 breaking it**
 
@@ -31,7 +31,7 @@ together from many different cultures and backgrounds. It’s
 important to understand that sometimes the combination of cultural
 differences and online interaction can lead to misunderstandings.
 
-Examples of positive behavours include, but are not limited to
+Examples of positive behaviors include, but are not limited to
 - Demonstrating kindness and consideration towards others
 - Being respectful of differing viewpoints, experiences, and
   opinions, unless they, directly or indirectly, harm a group of
