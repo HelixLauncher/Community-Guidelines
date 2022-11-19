@@ -76,13 +76,20 @@
   template: "{EMOJI} **{NAME}**: {DESCRIPTION}\n"
 
   roles:
-    1033126563962695690
-    1033126565036429434
-    1033126565996920914
-    1033126568064725103
-    1033126569310437386
-    1033126570384166912
-    1033126571369824438
+    1033126563962695690:
+      description: "He/Him pronouns"
+    1033126565036429434:
+      description: "She/Her pronouns"
+    1033126565996920914:
+      description: "They/Them pronouns"
+    1033126568064725103:
+      description: "It/Its pronouns"
+    1033126569310437386:
+      description: "No pronouns"
+    1033126570384166912:
+      description: "Any pronouns"
+    1033126571369824438:
+      description: "Ask for pronouns"
 
 
 - type: links
