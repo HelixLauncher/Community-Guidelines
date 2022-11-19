@@ -4,9 +4,18 @@
 - type: embed
 
   embeds:
-    - title: Welcome to Helix
+    - title: Welcome to HelixLauncher
 
-      description: TODO
+      description: >
+        This is the official discord server for the HelixLauncher project
+        
+        
+        HelixLauncher is an open-source Minecraft Launcher written from the ground-up in Rust.
+        We have split HelixLauncher into two main parts, the backend library, which anyone can use for their own launchers
+        and the GUI/CLI packages, which use the library to create a user-friendly Minecraft launcher.
+        
+        
+        We hope you enjoy your time with us!
 
 - type: text
   text: https://github.com/HelixLauncher/Art/blob/main/branding/banner-guidelines/banner-guidelines_96h.png?raw=true
@@ -97,8 +106,8 @@
   title: Useful Links
 
   links:
-    Helix Website: https://helixlauncher.dev/
-    QuiltMC on GitHub: https://github.com/HelixLauncher/
+    HelixLauncher Website: https://helixlauncher.dev/
+    HelixLauncher on GitHub: https://github.com/HelixLauncher/
 
 - type: threads
   mode: active
