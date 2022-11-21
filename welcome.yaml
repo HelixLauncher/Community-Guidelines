@@ -64,7 +64,7 @@
 
   roles:
     1033175278186418337:
-      description: "Get pinged when someone posts needs support."
+      description: "Get pinged when someone needs support."
       emoji: "📢"
     1033175393903059104:
       description: "Get pinged when there's an update in <#1033128191159717959>"
@@ -87,18 +87,25 @@
   roles:
     1033126563962695690:
       description: "He/Him pronouns"
+      emoji: "🇭"
     1033126565036429434:
       description: "She/Her pronouns"
+      emoji: "🇸"
     1033126565996920914:
       description: "They/Them pronouns"
+      emoji: "🇹"
     1033126568064725103:
       description: "It/Its pronouns"
+      emoji: "🇮"
     1033126569310437386:
       description: "No pronouns"
+      emoji: "❌"
     1033126570384166912:
       description: "Any pronouns"
+      emoji: "🤷"
     1033126571369824438:
       description: "Ask for pronouns"
+      emoji: "❓"
 
 
 - type: links
