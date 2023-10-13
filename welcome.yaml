@@ -8,10 +8,12 @@
 
       description: >
         This is the official Discord server for the HelixLauncher project.
+
+        This is not a dead project. Most of the devs are currently busy with other projects, however progress is happening.
         
         
         HelixLauncher is an open-source Minecraft Launcher written from the ground-up in Rust.
-        We have split HelixLauncher into two main parts, the backend library, which anyone can use for their own launchers
+        We have split HelixLauncher into three main parts, the backend library, which anyone can use for their own launchers
         and the GUI/CLI packages, which use the library to create a user-friendly Minecraft launcher.
         
         
